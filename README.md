@@ -1,13 +1,5 @@
 ### [Hello World 👋](https://muzixiaoyao.github.io)
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muzixiaoyao&label=Profile%20views&color=0e75b6&style=flat" alt="muzixiaoyao" /> </p>
-
-I'm a software developer at PwC. I graduated from Bahcesehir University in 2021. My departments are Software Engineering and Computer Education and Instructional Technologies. I love to learn new things, hardworking and is very keen on technology.
-
-![Mert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muzixiaoyao&show_icons=true)
-
-
 ### Learning | Using 🧠
 
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
