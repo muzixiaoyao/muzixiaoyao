@@ -1,5 +1,8 @@
 ### [Hello World 👋](https://muzixiaoyao.github.io)
 
+[![muzixiaoyao's GitHub stats](https://github-readme-stats.vercel.app/api?username=muzixiaoyao)](https://github.com/muzixiaoyao/github-readme-stats)
+
+
 ### Learning | Using 🧠
 
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
